@@ -1,4 +1,5 @@
 # Java-Interview-Questions
+This is a list of compiled question asked in recent interviews.
 This collection of questions should cover a wide range of essential Java topics, from foundational concepts to advanced Spring and microservices topics. Each question serves as a basis for deeper exploration during interviews
 
 ### 1. **Platform Independence and JVM**
